@@ -1,0 +1,5 @@
+train: C:\Users\HP\Desktop\fall\tree.fall-1\train\images
+val: C:\Users\HP\Desktop\fall\tree.fall-1\valid\images
+
+nc: 2
+names: ['Fall', 'Not Fall']
